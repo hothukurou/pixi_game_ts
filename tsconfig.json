@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "commonJS",
+        "target": "ES2015",
+        "noImplicitAny": false,
+        "sourceMap": true,
+        "rootDir": "./typescript"
+    },
+    "exclude": ["node_modules"]
+}
