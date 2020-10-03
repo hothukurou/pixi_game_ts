@@ -75,4 +75,5 @@ dist
 ./vscode
 
 *.js
+!webpack.config.js
 *.js.map
