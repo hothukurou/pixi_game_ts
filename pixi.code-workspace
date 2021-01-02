@@ -1,0 +1,30 @@
+{
+	"folders": [
+	  {
+		"path": "."
+	  }
+	],
+	"settings": {
+	  "editor.tabSize": 2,
+	  "editor.renderWhitespace": "all",
+	  "editor.suggestSelection": "first",
+	  "editor.wordWrap": "bounded",
+	  "files.eol": "\n",
+	  "files.trimFinalNewlines": true,
+	  "files.insertFinalNewline": true,
+	  "files.trimTrailingWhitespace": true,
+	  "html.format.extraLiners": "",
+	  "html.format.wrapAttributes": "preserve",
+	  "html.format.wrapLineLength": 0,
+	  "codemetrics.basics.DiagnosticsEnabled": true,
+	  "tslint.packageManager": "pnpm",
+	  "eslint.packageManager": "pnpm",
+	  "editor.formatOnSave": true,
+	  "editor.defaultFormatter": "esbenp.prettier-vscode",
+	  "editor.columnSelection": false,
+	  "diffEditor.codeLens": true,
+	  "prettier.configPath": "prettier.config.js",
+	  "prettier.requireConfig": true
+	}
+  }
+
