@@ -4,8 +4,8 @@
  * というわけで、「画像、音声動画のアセットファイル化」の実験も兼ねて
  * 現時点 (2021/01/02) で動作するようにしてみました。
  */
-import PIXI_SOUND from 'pixi-sound'; // node_modulesから PIXI_SOUNDをインポート
 import * as PIXI from 'pixi.js'; // node_modulesから PIXI.jsをインポート
+import PIXI_SOUND from 'pixi-sound'; // node_modulesから PIXI_SOUNDをインポート
 
 import { SceneManager } from './scene_manager'; // シーン管理を行うクラスをインポート
 import { createButton } from './create_button'; // ボタン生成関数をインポート
